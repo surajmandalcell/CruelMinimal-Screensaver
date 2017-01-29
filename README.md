@@ -1,6 +1,6 @@
-# CruelMinimalClock-Windows-Screensaver
+# CruelMinimalClock
 
-CruelMinimalClock is a  Windows Screen-saver which works with all versions of windows including windows 10,8.1,8,7.  
+CruelMinimalClock is a  Windows Screensaver which works with all versions of windows including windows 10,8.1,8,7.  
 
 ###Features
 
@@ -18,3 +18,6 @@ CruelMinimalClock is a  Windows Screen-saver which works with all versions of wi
 4. browse and select index.html then click save
 5. right click on sscr.srv and click install
 6. Use it like any other screen saver
+
+
+######| This tutorial uses third party applications.
