@@ -9,7 +9,7 @@ CruelMinimalClock is a  Windows Screensaver which works with all versions of win
 * Black Background look for low screen power usage
 * Minimal looks
 
-![Minimilast screensaver](img/screensaverDemo1.jpeg "screensaverDemo1")
+![Minimilast Screensaver](img/CruelMinimilastClock.gif "CruelMinimilastClock")
 
 ###Steps to use
 1. Clone this repro to any location or download .zip using this link
