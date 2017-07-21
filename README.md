@@ -2,7 +2,7 @@
 
 CruelMinimalClock is a  Windows Screensaver which works with all versions of windows including windows 10,8.1,8,7.  
 
-###Features
+### Features
 
 * Clock color changes with pulse effect
 * Using Pt sans font which is mostly available
@@ -11,7 +11,7 @@ CruelMinimalClock is a  Windows Screensaver which works with all versions of win
 
 ![Minimilast Screensaver](img/CruelMinimilastClock.gif "CruelMinimilastClock")
 
-###Steps to use
+### Steps to use
 1. Clone this repro to any location or download .zip using this link
 2. copy index.html and progs/sscr.scr to C:\windows\ 
 3. right click on sscr.scr and click configure
@@ -20,4 +20,4 @@ CruelMinimalClock is a  Windows Screensaver which works with all versions of win
 6. Use it like any other screen saver
 
 
-######| This tutorial uses third party applications.
+###### | This tutorial uses third party applications.
