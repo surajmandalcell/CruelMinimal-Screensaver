@@ -20,4 +20,4 @@ CruelMinimalClock is a  Windows Screensaver which works with all versions of win
 6. Use it like any other screen saver
 
 
-###### | This tutorial uses third party applications.
+###### | This tutorial uses a third party application.
