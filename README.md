@@ -1,6 +1,6 @@
 # CruelMinimal Screensaver
 
-CruelMinimalClock is a  Windows Screensaver which works with all versions of windows including windows 10,8.1,8,7.  
+CruelMinimalClock is a  Windows Screensaver which works with all versions of windows including windows 11,10,8.1,8,7.  
 
 ### Features
 
@@ -20,4 +20,4 @@ CruelMinimalClock is a  Windows Screensaver which works with all versions of win
 6. Use it like any other screen saver
 
 
-###### | This tutorial uses a third party application.
+###### **This project uses a third party application.
